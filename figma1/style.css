@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav .nav_top{
+    background-color: #404040;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    color: white;
+    padding: 20px;
+}
+
+nav .nav_top button{
+    width: 240px;
+    height: 50px;
+    border-radius: 30px;
+    font-weight: 700;
+    font-style: bold;
+    font-size: 16px;
+}
+
+nav .nav_bottom{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    background-image: url(/Rectangle\ 5\ \(1\).png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 532px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    color: white;
+    text-align: center;
+
+}
+
+
+
+header h1{
+    font-size: 700;
+    font-style: bold;
+    font-size: 40px;
+    
+}
+
+
+main .s1 kartalar {
+    padding: 0 200px;
+margin: auto;
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+gap: 40px;
+}
+
+main s1 .kartalar div {
+width: 240px;
+height: 264px;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap: 50px;
+border-radius: 30px;
+border: 1px solid Oblack;}
+
+main .s1 {
+padding: 120px;
+text-align: center;}
+
+main .s1 button {
+width: 240px;
+height: 60px;
+border-radius: 30px;
+background-color: •#E05100;
+font-family: Montserrat;
+font-style: Bold;
+font-size: 16px;
+color: •#FFFFFF;
+border: none;
+}
+
+
+
+
+
